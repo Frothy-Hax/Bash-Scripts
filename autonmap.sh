@@ -1,9 +1,9 @@
 # V1.0 Network Scan Tool
-# Written by Josh Springthorpe
+# Written by Frothy-Hax
 
 # Gets information about user
 
-echo "$(date) | Version 1.0 | Author: Josh Springthorpe"
+echo "$(date) | Version 1.0 | Author: Frothy-Hax"
 echo " "
 echo "Welcome to the Network Scanning Tool"
 echo " "
